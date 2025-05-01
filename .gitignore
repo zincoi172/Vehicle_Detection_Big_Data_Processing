@@ -9,7 +9,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore model weights and logs
-*.pt
 *.log
 
 # Ignore macOS system files
