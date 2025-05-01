@@ -1,0 +1,6 @@
+folder,Correct,Incorrect,Accuracy (%)
+car,98541,161972,37.83
+bus,9334,967,90.61
+articulated_truck,9760,579,94.4
+pickup_truck,31913,18983,62.7
+single_unit_truck,2611,2501,51.08
