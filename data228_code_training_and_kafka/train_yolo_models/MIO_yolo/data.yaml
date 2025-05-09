@@ -1,0 +1,16 @@
+train: "C:/Users/jj111/Desktop/new_train/MIO-TCD-Localization/images/train"
+val: "C:/Users/jj111/Desktop/new_train/MIO-TCD-Localization/images/val"
+
+nc: 11
+names:
+  - Articulated truck
+  - Bicycle
+  - Bus
+  - Car
+  - Motorcycle
+  - Motorized vehicle
+  - Non-motorized vehicle
+  - Pedestrian
+  - Pickup truck
+  - Single unit truck
+  - Work van
