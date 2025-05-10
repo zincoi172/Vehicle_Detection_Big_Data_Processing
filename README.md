@@ -1,7 +1,9 @@
 # 🚗 Smart Vehicle Detection and Parking Occupancy Management
 
 **Course:** Data 228 – Big Data Technologies
+
 **Instructor:** Dr. Guannan Liu
+
 **Team:** Cheng-Huan Yu, Chun-Chieh Kuo, Khac Minh Dai Vo, Lam Tran
 
 ## 📌 Overview
